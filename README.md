@@ -10,8 +10,11 @@ The business lacks visibility into seasonal sales trends, product performance, a
 Example: Build an interactive dashboard to visualize sales vs. budget, identify top-performing products/customers, and provide data-driven recommendations for improving profitability.
 ## Target Audience
 Sales Managers
+
 Finance Teams
+
 Executive Leadership
+
 Supply Chain Planners
 ## Data Structure and Data Model
 ![Sales Insights](https://github.com/user-attachments/assets/851f5934-3fc0-4e20-8a24-2b4b99525fb4)
