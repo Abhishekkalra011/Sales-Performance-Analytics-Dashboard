@@ -1,7 +1,7 @@
 # Sales-Performance-Analytics-Dashboard
 ## Description
 A Power BI-based analytics project analyzing sales performance, budget adherence, customer behavior, and product trends across regions and time periods (2019–2021). Designed to uncover actionable insights for revenue optimization and strategic planning.
-## Power BI Dashboard
+## Power BI report link
 https://app.powerbi.com/view?r=eyJrIjoiNTViNTEyNjMtYWFkYi00NDQ4LWJiZDAtMjk5Y2E1MGQ2YWNhIiwidCI6IjU1YmQ5ZTdkLTdkMWEtNGZlNy1hNmZmLTJhOWY0YzdkZjAxYSJ9
 ## Project Overview
 ### Business Problem
